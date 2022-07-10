@@ -1,0 +1,9 @@
+cat > filename.extention ---- creates file and opens & strts editing
+ls ---- shows all files in a folder/directory
+ls -lart ----shows all files & their details
+touch filename.extention -----creats new file and exits
+git init ---- to initialise empty git folder
+ctrl c ----to exit from the running command
+clear ----to clear all bash
+mkdir ----to make/create a folder
+cd filename ----to change the directory i.e. to [D[D[D[D[D[D[D[D[D/folder[3~[3~[3~[ [A[D[D[D[D[D[D[D[A[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[Cfilename ----to make[B[F[F[B[F[B[B[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
